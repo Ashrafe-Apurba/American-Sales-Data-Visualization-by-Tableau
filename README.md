@@ -9,4 +9,10 @@ Binders and Phones clearly dominating product sales.
 
 This project was a great way to learn about connecting data, calculated fields, and dashboard design. The journey is just beginning!
 
+
+
+
+You can also check out the interactive version here:
+https://public.tableau.com/app/profile/ashrafe.alim/viz/americansales001/Dashboard1
+
 #Tableau #DataViz #Dashboard #DataAnalytics #FirstProject #Learning
